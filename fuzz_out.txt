@@ -1,0 +1,68 @@
+[missing-sri] [http] [info] https://www.szsiq.com ["https://cdn.szsiq.com/siqpc/js/swiper.min.js","https://cdn.szsiq.com/siqpc/js/vue.min.js","https://cdn.szsiq.com/siqpc/js/axios.min.js","https://cdn.szsiq.com/siqpc/js/elementui.js","https://cdn.szsiq.com/siqpc/js/vue-awesome-swiper.js"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] app.szzgh.org:443 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] app.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls11"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] app.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] app.szzgh.org:443 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls13"]
+[tomcat-stacktraces] [http] [low] https://www.szsiq.com/?f=\[
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:permissions-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:x-frame-options] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:strict-transport-security] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:content-security-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:clear-site-data] [http] [info] https://app.szzgh.org
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com
+[addeventlistener-detect] [http] [info] https://www.szsiq.com
+[options-method] [http] [info] https://www.szsiq.com ["OPTIONS, GET, HEAD, POST"]
+[tech-detect:nginx] [http] [info] https://www.szsiq.com
+[caa-fingerprint] [dns] [info] www.szzgh.org
+[caa-fingerprint] [dns] [info] app.szzgh.org
+[caa-fingerprint] [dns] [info] www.szsiq.com
+[ssl-issuer] [ssl] [info] www.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] www.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] www.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["szsiq.com","*.szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
+[wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] app.szzgh.org:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] app.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
+[wildcard-tls] [ssl] [info] app.szzgh.org:443 ["SAN: [*.szzgh.org szzgh.org]","CN: *.szzgh.org"]

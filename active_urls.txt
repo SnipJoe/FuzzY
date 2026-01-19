@@ -1,0 +1,10 @@
+www.szsiq.com:80
+www.szsiq.com:443
+www.szzgh.org:80
+app.szzgh.org:80
+www.szzgh.org:443
+app.szzgh.org:443
+www.szzgh.org:8021
+app.szzgh.org:8021
+www.szzgh.org:9010
+app.szzgh.org:9010
