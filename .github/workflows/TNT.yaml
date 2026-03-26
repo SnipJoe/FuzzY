@@ -22,13 +22,13 @@ jobs:
           HOUR=$(date +%H)
           
           # 判断时间段并读取对应行
-          if [ "$HOUR" -ge 18 ] && [ "$HOUR" -lt 23 ]; then
+          if [ "$HOUR" -ge 10 ] && [ "$HOUR" -lt 15 ]; then
               # 18:00-23:00: 读取 1-3 行
               sed -n '1,3p' domains.txt > domains_work.txt && cat domains_work.txt
-          elif [ "$HOUR" -ge 23 ] || [ "$HOUR" -lt 4 ]; then
+          elif [ "$HOUR" -ge 15 ] || [ "$HOUR" -lt 20 ]; then
               # 23:00-04:00: 读取 6-10 行
               sed -n '6,10p' domains.txt > domains_work.txt && cat domains_work.txt
-          elif [ "$HOUR" -ge 4 ] && [ "$HOUR" -lt 8 ]; then
+          elif [ "$HOUR" -ge 20 ] && [ "$HOUR" -lt 24 ]; then
               # 04:00-08:00: 读取 11-15 行
               sed -n '11,15p' domains.txt > domains_work.txt && cat domains_work.txt
           else
