@@ -18,23 +18,7 @@ jobs:
           FULL_TIME=$(date +"%Y-%m-%d %H:%M:%S")
           echo "完整时间: $FULL_TIME"
           
-          # 获取当前小时
-          HOUR=$(date +%H)
-          
-          # 判断时间段并读取对应行
-          if [ "$HOUR" -ge 10 ] && [ "$HOUR" -lt 15 ]; then
-              # 18:00-23:00: 读取 1-3 行
-              sed -n '5,6p' domains.txt > domains_work.txt && cat domains_work.txt
-          elif [ "$HOUR" -ge 15 ] || [ "$HOUR" -lt 20 ]; then
-              # 23:00-04:00: 读取 6-10 行
-              sed -n '6,10p' domains.txt > domains_work.txt && cat domains_work.txt
-          elif [ "$HOUR" -ge 20 ] && [ "$HOUR" -lt 24 ]; then
-              # 04:00-08:00: 读取 11-15 行
-              sed -n '11,15p' domains.txt > domains_work.txt && cat domains_work.txt
-          else
-              # 其他时间默认处理（可选）
-              echo "Current hour $HOUR is outside defined ranges, skipping or using default."
-          fi
+
 
         shell: bash
 
@@ -77,20 +61,20 @@ jobs:
       - name: Add Go bin to PATH and Process Domains
         run: |
           echo "$GOPATH/bin" >> $GITHUB_PATH
-          
+          rm -rf *_*.txt
           # 获取当前小时
           HOUR=$(date +%H)
           
           # 判断时间段并读取对应行
-          if [ "$HOUR" -ge 17 ] && [ "$HOUR" -lt 23 ]; then
+          if [ "$HOUR" -ge 10 ] && [ "$HOUR" -lt 15 ]; then
               # 18:00-23:00: 读取 1-3 行
-              sed -n '1,3p' domains.txt > domains_work.txt && cat domains_work.txt
-          elif [ "$HOUR" -ge 23 ] || [ "$HOUR" -lt 4 ]; then
+              sed -n '1,4p' domains.txt > domains_work.txt && cat domains_work.txt
+          elif [ "$HOUR" -ge 15 ] || [ "$HOUR" -lt 20 ]; then
               # 23:00-04:00: 读取 6-10 行
-              sed -n '6,10p' domains.txt > domains_work.txt && cat domains_work.txt
-          elif [ "$HOUR" -ge 4 ] && [ "$HOUR" -lt 8 ]; then
+              sed -n '5,8p' domains.txt > domains_work.txt && cat domains_work.txt
+          elif [ "$HOUR" -ge 20 ] && [ "$HOUR" -lt 24 ]; then
               # 04:00-08:00: 读取 11-15 行
-              sed -n '11,15p' domains.txt > domains_work.txt && cat domains_work.txt
+              sed -n '9,12p' domains.txt > domains_work.txt && cat domains_work.txt
           else
               # 其他时间默认处理（可选）
               echo "Current hour $HOUR is outside defined ranges, skipping or using default."
@@ -101,9 +85,9 @@ jobs:
       - name: Running DNS enumeration...
         run: |
           
-          rm -rf *_*.txt
+
           # subfinder -dL domains.txt -config config/subfinder-config.yaml | dnsx -t 350 -o active_subdomains.txt
-          subfinder -dL domains.txt -config config/subfinder-config.yaml -o active_subdomains.txt
+          subfinder -dL domains_work.txt -config config/subfinder-config.yaml -o active_subdomains.txt
           dnsx -l active_subdomains.txt -t 350 | tee -a active_subdomains.txt
           sort -u active_subdomains.txt
           cat active_subdomains.txt
