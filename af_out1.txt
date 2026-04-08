@@ -1,12 +1,0 @@
-
-Afrog/3.5.1 | Security Toolkit | Lightweight, Fast, and Direct to the Flaw.
-════════════════════════════════════════════════════════
-[✓] Core:  3.5.1              
-[✓] POC:   0.5.26             
-[✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
-[✓] OOB:   Not required (no OOB PoCs) 
-════════════════════════════════════════════════════════
-001 04-08 08:18:28 ssh-detect INFO en.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.15"]
-002 04-08 08:18:29 ssh-detect INFO szrsa.sutpc.com:22 [ssh="SSH-2.0-OpenSSH_8.0"]
-003 04-08 08:18:43 telnet-detect INFO en.szafi.com.cn:22 
-004 04-08 08:18:44 telnet-detect INFO szrsa.sutpc.com:22 
