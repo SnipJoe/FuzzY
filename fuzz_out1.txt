@@ -1,57 +1,29 @@
-[dns-rebinding:IPv4] [dns] [unknown] m.szap.com ["127.0.0.1"]
-[dns-rebinding:IPv4] [dns] [unknown] www.szap.com ["127.0.0.1"]
-[cookies-without-secure] [javascript] [info] mail.szap.com:443 ["magicwinmail_default_theme","magicwinmail_agent_type","magicwinmail_default_language","magicwinmail_login_domain","magicwinmail_client_id"]
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:1080
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:10000
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:2522
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:2003
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:1443
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:27000
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:4003
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:3880
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:4443
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5200
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:48080
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5222
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:58080
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6001
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6003
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6006
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:6007
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7002
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7004
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:5225
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:7443
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8001
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8007
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8002
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8086
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8099
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8181
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8200
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8300
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8443
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8701
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:85
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9002
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9003
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9091
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9200
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:8008
-[waf-detect:apachegeneric] [http] [info] https://lsapp.szzgh.org:9999
-[waf-detect:apachegeneric] [http] [info] https://oa.smartcitysz.com:443
-[waf-detect:nginxgeneric] [http] [info] https://oa.smartcitysz.com:443
-[waf-detect:apachegeneric] [http] [info] https://mail.szap.com:443
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:10002
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:10003
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:10000
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:10009
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1067
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1087
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1066
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:10012
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1093
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1098
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1096
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1097
-[dameng-detect] [javascript] [info] lsapp.szzgh.org:1094
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3DScz5gEAMAvJVXwF6yc5x2i9c3-3DScz5gEAMAvJVXwF6yc5x2i9c3.mail.sztop.com ["18.192.252.23"]
+[dns-rebinding:IPv4] [dns] [unknown] en.szafi.com.cn ["127.0.0.1"]
