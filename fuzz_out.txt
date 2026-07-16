@@ -1,140 +1,69 @@
-[dns-rebinding:IPv4] [dns] [unknown] pan.smartcitysz.com ["172.29.0.2"]
-[wildcard-dns-detect] [dns] [info] 3GXe8EH44qv40ILowctAjn2IGin-3GXe8EH44qv40ILowctAjn2IGin.console.szgz1.smartcitysz.com ["58.251.56.154"]
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[waf-detect:jiasule] [http] [info] https://cdn.szsiq.com
-[waf-detect:chuangyudun] [http] [info] https://cdn.szsiq.com
-[waf-detect:chuangyudun] [http] [info] https://www.szsiq.com
-[waf-detect:jiasule] [http] [info] https://www.szsiq.com
-[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:443 ["tls11"]
+[wildcard-dns-detect] [dns] [info] 3GaUvEWmknv8ouhV4KB7GIgJxoJ-3GaUvEWmknv8ouhV4KB7GIgJxoJ.api3.szgz1.smartcitysz.com ["58.251.56.154"]
+[wildcard-dns-detect] [dns] [info] 3GaUvEWmknv8ouhV4KB7GIgJxoJ-3GaUvEWmknv8ouhV4KB7GIgJxoJ.cos.sz1.storage1.smartcitysz.com ["58.251.56.154"]
+[wildcard-dns-detect] [dns] [info] 3GaUvEWmknv8ouhV4KB7GIgJxoJ-3GaUvEWmknv8ouhV4KB7GIgJxoJ.console.szgz1.smartcitysz.com ["58.251.56.154"]
+[dns-rebinding:IPv4] [dns] [unknown] pan.smartcitysz.com ["172.29.0.2"]
+[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
+[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
+[wildcard-dns-detect] [dns] [info] 3GaUvEWmknv8ouhV4KB7GIgJxoJ-3GaUvEWmknv8ouhV4KB7GIgJxoJ.szgz1.smartcitysz.com ["58.251.56.154"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szzgh.org:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] video.szzgh.org:443 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] video.szzgh.org:443 ["tls10"]
-[tls-version] [ssl] [info] www.szzgh.org:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szzgh.org:443 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
 [deprecated-tls:tls_1.0] [ssl] [info] www.szzgh.org:443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] video.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szzgh.org:443 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
 [deprecated-tls:ssl_3.0] [ssl] [info] www.szzgh.org:443 ["ssl30"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] video.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] video.szzgh.org:443 ["tls11"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] video.szzgh.org:443 ["tls10"]
-[deprecated-tls:ssl_3.0] [ssl] [info] video.szzgh.org:443 ["ssl30"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls13"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls12"]
-[tls-version] [ssl] [info] lsapp.szzgh.org:443 ["tls13"]
-[tls-version] [ssl] [info] video.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szzgh.org:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szzgh.org:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szzgh.org:443 ["tls12"]
+[tls-version] [ssl] [info] www.smartcitysz.com:443 ["tls12"]
+[tls-version] [ssl] [info] www.smartcitysz.com:443 ["tls13"]
 [tls-version] [ssl] [info] oa.smartcitysz.com:443 ["tls12"]
 [tls-version] [ssl] [info] oa.smartcitysz.com:443 ["tls13"]
-[openresty-detect] [http] [info] https://lsapp.szzgh.org
-[missing-cookie-samesite-strict] [http] [info] https://cdn.szsiq.com ["__jsluid_s=e4b6d0cdfb01423a72ec5fcf3a228384; max-age=31536000; path=/; HttpOnly; SameSite=None; secure"]
-[missing-cookie-samesite-strict] [http] [info] https://www.szsiq.com ["__jsluid_s=591d465df59dff89c5e04849c6a8b88c; max-age=31536000; path=/; HttpOnly; SameSite=None; secure"]
+[shiro-detect] [http] [info] https://www.smartcitysz.com
 [http-missing-security-headers:content-security-policy] [http] [info] https://oa.smartcitysz.com
-[http-missing-security-headers:permissions-policy] [http] [info] https://oa.smartcitysz.com
-[http-missing-security-headers:referrer-policy] [http] [info] https://video.szzgh.org
 [http-missing-security-headers:x-frame-options] [http] [info] https://oa.smartcitysz.com
-[http-missing-security-headers:referrer-policy] [http] [info] https://oa.smartcitysz.com
-[http-missing-security-headers:strict-transport-security] [http] [info] https://oa.smartcitysz.com
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://video.szzgh.org
 [http-missing-security-headers:x-content-type-options] [http] [info] https://oa.smartcitysz.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://oa.smartcitysz.com
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://oa.smartcitysz.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://video.szzgh.org
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://oa.smartcitysz.com
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://oa.smartcitysz.com
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://video.szzgh.org
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://video.szzgh.org
-[http-missing-security-headers:strict-transport-security] [http] [info] https://video.szzgh.org
-[http-missing-security-headers:content-security-policy] [http] [info] https://video.szzgh.org
-[http-missing-security-headers:permissions-policy] [http] [info] https://video.szzgh.org
-[http-missing-security-headers:x-frame-options] [http] [info] https://video.szzgh.org
-[http-missing-security-headers:x-content-type-options] [http] [info] https://video.szzgh.org
-[http-missing-security-headers:x-content-type-options] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:strict-transport-security] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:permissions-policy] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:x-frame-options] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:referrer-policy] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:content-security-policy] [http] [info] https://lsapp.szzgh.org
-[http-missing-security-headers:strict-transport-security] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:permissions-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:x-frame-options] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:x-content-type-options] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:referrer-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:content-security-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://oa.smartcitysz.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.smartcitysz.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.smartcitysz.com
+[mixed-passive-content:video] [http] [info] https://www.smartcitysz.com ["http://localhost:8085/video/2022/07/01/1656656318922.mp4"]
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szzgh.org
 [http-missing-security-headers:referrer-policy] [http] [info] https://www.szzgh.org
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szzgh.org
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szzgh.org
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szzgh.org
 [http-missing-security-headers:content-security-policy] [http] [info] https://www.szzgh.org
 [http-missing-security-headers:permissions-policy] [http] [info] https://www.szzgh.org
 [http-missing-security-headers:x-frame-options] [http] [info] https://www.szzgh.org
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szzgh.org
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szzgh.org
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szzgh.org
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szzgh.org
-[caa-fingerprint] [dns] [info] video.szzgh.org
+[options-method] [http] [info] https://www.smartcitysz.com ["GET,HEAD,OPTIONS"]
+[email-extractor] [http] [info] https://www.smartcitysz.com ["S.city@smartcitysz.com"]
+[spring-detect] [http] [info] https://www.smartcitysz.com/error
+[aaaa-fingerprint] [dns] [info] www.smartcitysz.com ["2409:8754:30b0:20::"]
+[caa-fingerprint] [dns] [info] www.smartcitysz.com
 [caa-fingerprint] [dns] [info] oa.smartcitysz.com
-[caa-fingerprint] [dns] [info] cdn.szsiq.com
-[nameserver-fingerprint] [dns] [info] cdn.szsiq.com ["ns2.jiasule.net.","ns1.kangdns.com.","ns2.kangdns.com.","ns1.365cyd.net.","ns2.365cyd.net.","ns1.jiasule.net."]
-[caa-fingerprint] [dns] [info] lsapp.szzgh.org
-[dns-saas-service-detection] [dns] [info] cdn.szsiq.com ["4ccdb33f112fb03c.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.kangdns.com.","ns1.kangdns.com.","ns2.jiasule.net.","ns1.365cyd.net.","ns2.365cyd.net.","ns1.jiasule.net."]
 [caa-fingerprint] [dns] [info] www.szzgh.org
-[dns-saas-service-detection] [dns] [info] lsapp.szzgh.org ["lsapp.szzgh.org.ctadns.cn"]
-[ssl-issuer] [ssl] [info] lsapp.szzgh.org:443 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] lsapp.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] lsapp.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[caa-fingerprint] [dns] [info] www.szsiq.com
-[ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
-[wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.smartcitysz.com:443 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] www.smartcitysz.com:443 ["*.smartcitysz.com","smartcitysz.com"]
+[wildcard-tls] [ssl] [info] www.smartcitysz.com:443 ["CN: *.smartcitysz.com","SAN: [*.smartcitysz.com smartcitysz.com]"]
 [ssl-issuer] [ssl] [info] oa.smartcitysz.com:443 ["DigiCert Inc"]
-[ssl-dns-names] [ssl] [info] oa.smartcitysz.com:443 ["*.smartcitysz.com","smartcitysz.com"]
+[ssl-dns-names] [ssl] [info] oa.smartcitysz.com:443 ["smartcitysz.com","*.smartcitysz.com"]
 [wildcard-tls] [ssl] [info] oa.smartcitysz.com:443 ["CN: *.smartcitysz.com","SAN: [*.smartcitysz.com smartcitysz.com]"]
-[ssl-issuer] [ssl] [info] video.szzgh.org:443 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] video.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
-[wildcard-tls] [ssl] [info] video.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
 [ssl-issuer] [ssl] [info] www.szzgh.org:443 ["Sectigo Limited"]
-[ssl-dns-names] [ssl] [info] www.szzgh.org:443 ["*.szzgh.org","szzgh.org"]
+[ssl-dns-names] [ssl] [info] www.szzgh.org:443 ["szzgh.org","*.szzgh.org"]
 [wildcard-tls] [ssl] [info] www.szzgh.org:443 ["CN: *.szzgh.org","SAN: [*.szzgh.org szzgh.org]"]
-[ssl-issuer] [ssl] [info] cdn.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] cdn.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] cdn.szsiq.com:443
-[wildcard-tls] [ssl] [info] cdn.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
