@@ -6,10 +6,9 @@ Afrog/3.5.1 | Security Toolkit | Lightweight, Fast, and Direct to the Flaw.
 [✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
 [✓] OOB:   Not required (no OOB PoCs) 
 ════════════════════════════════════════════════════════
-001 09-20 02:14:00 ssh-detect INFO szrsa.sutpc.com:22 [ssh="SSH-2.0-OpenSSH_8.0"]
-002 09-20 02:14:33 ssh-detect INFO en.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
-003 09-20 02:14:33 ssh-detect INFO www.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
-004 09-20 02:16:11 telnet-detect INFO szrsa.sutpc.com:22 
-005 09-20 02:16:44 telnet-detect INFO en.szafi.com.cn:22 
-006 09-20 02:16:44 telnet-detect INFO www.szafi.com.cn:22 
-007 09-20 02:17:16 telnet-detect INFO https://qn.sutpc.com:23 
+001 09-20 06:15:10 ssh-detect INFO www.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
+002 09-20 06:15:11 ssh-detect INFO en.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
+003 09-20 06:15:18 ssh-detect INFO szrsa.sutpc.com:22 [ssh="SSH-2.0-OpenSSH_8.0"]
+004 09-20 06:16:31 telnet-detect INFO en.szafi.com.cn:22 
+005 09-20 06:16:31 telnet-detect INFO www.szafi.com.cn:22 
+006 09-20 06:16:41 telnet-detect INFO szrsa.sutpc.com:22 

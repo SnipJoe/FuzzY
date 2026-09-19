@@ -1,260 +1,219 @@
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3JYLYYuhKgIBrVY3gP3vJeZ2Z2p-3JYLYYuhKgIBrVY3gP3vJeZ2Z2p.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3JYsuzYV7Yc1hukN9apuTiIREzj-3JYsuzYV7Yc1hukN9apuTiIREzj.mail.sztop.com ["18.192.252.23"]
 [dns-rebinding:IPv4] [dns] [unknown] en.szafi.com.cn ["127.0.0.1"]
-[dns-rebinding:IPv4] [dns] [unknown] www.szafi.com.cn ["127.0.0.1"]
 [cookies-without-secure] [javascript] [info] mail.sutpc.com:443 ["sms_id","ssl_edition"]
 [waf-detect:nginxgeneric] [http] [info] https://szrsa.sutpc.com:8443
 [waf-detect:nginxgeneric] [http] [info] https://www.sutpc.com:443
 [ssh-auth-methods] [javascript] [info] en.szafi.com.cn:22 ["["publickey","password"]"]
 [ssh-auth-methods] [javascript] [info] www.szafi.com.cn:22 ["["publickey","password"]"]
-[ssh-password-auth] [javascript] [info] en.szafi.com.cn:22
-[ssh-password-auth] [javascript] [info] www.szafi.com.cn:22
+[ssh-auth-methods] [javascript] [info] szrsa.sutpc.com:22 ["["publickey","gssapi-keyex","gssapi-with-mic","password"]"]
 [ssh-server-enumeration] [javascript] [info] en.szafi.com.cn:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
 [ssh-server-enumeration] [javascript] [info] www.szafi.com.cn:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
+[ssh-password-auth] [javascript] [info] en.szafi.com.cn:22
+[ssh-server-enumeration] [javascript] [info] szrsa.sutpc.com:22 ["SSH-2.0-OpenSSH_8.0"]
+[ssh-password-auth] [javascript] [info] www.szafi.com.cn:22
 [ssh-sha1-hmac-algo] [javascript] [info] en.szafi.com.cn:22
+[ssh-password-auth] [javascript] [info] szrsa.sutpc.com:22
 [ssh-sha1-hmac-algo] [javascript] [info] www.szafi.com.cn:22
+[ssh-sha1-hmac-algo] [javascript] [info] szrsa.sutpc.com:22
+[ssh-cbc-mode-ciphers] [javascript] [low] szrsa.sutpc.com:22
+[ssh-weakkey-exchange-algo] [javascript] [low] szrsa.sutpc.com:22
 [openssh-detect] [tcp] [info] en.szafi.com.cn:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
 [openssh-detect] [tcp] [info] www.szafi.com.cn:22 ["SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
-[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[openssh-detect] [tcp] [info] szrsa.sutpc.com:22 ["SSH-2.0-OpenSSH_8.0"]
 [deprecated-tls:tls_1.1] [ssl] [info] mail.sutpc.com:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.sutpc.com:443 ["tls11"]
 [deprecated-tls:tls_1.1] [ssl] [info] szrsa.sutpc.com:8443 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] mail.sutpc.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.sutpc.com:443 ["tls10"]
-[tls-version] [ssl] [info] qn.sutpc.com:443 ["tls10"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] qn.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] mail.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] szrsa.sutpc.com:8443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] szrsa.sutpc.com:8443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] www.sutpc.com:443 ["tls10"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.sutpc.com:443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
 [deprecated-tls:tls_1.1] [ssl] [info] qn.sutpc.com:443 ["tls11"]
+[deprecated-tls:tls_1.0] [ssl] [info] mail.sutpc.com:443 ["tls10"]
 [deprecated-tls:tls_1.0] [ssl] [info] szrsa.sutpc.com:8443 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] qn.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] mail.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] szrsa.sutpc.com:8443 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] szrsa.sutpc.com:8443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
-[tls-version] [ssl] [info] www.sutpc.com:443 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.sutpc.com:443 ["tls10"]
 [deprecated-tls:tls_1.0] [ssl] [info] qn.sutpc.com:443 ["tls10"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
+[deprecated-tls:ssl_3.0] [ssl] [info] szrsa.sutpc.com:8443 ["ssl30"]
+[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls10"]
+[tls-version] [ssl] [info] szrsa.sutpc.com:8443 ["tls10"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[tls-version] [ssl] [info] qn.sutpc.com:443 ["tls10"]
+[tls-version] [ssl] [info] www.sutpc.com:443 ["tls10"]
+[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls11"]
+[tls-version] [ssl] [info] szrsa.sutpc.com:8443 ["tls11"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[tls-version] [ssl] [info] www.sutpc.com:443 ["tls11"]
 [tls-version] [ssl] [info] qn.sutpc.com:443 ["tls11"]
 [tls-version] [ssl] [info] mail.sutpc.com:443 ["tls12"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls13"]
-[deprecated-tls:ssl_3.0] [ssl] [info] szrsa.sutpc.com:8443 ["ssl30"]
-[tls-version] [ssl] [info] qn.sutpc.com:443 ["tls12"]
 [tls-version] [ssl] [info] szrsa.sutpc.com:8443 ["tls12"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
 [tls-version] [ssl] [info] www.sutpc.com:443 ["tls12"]
+[tls-version] [ssl] [info] qn.sutpc.com:443 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] szrsa.sutpc.com:8443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] qn.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [tls-version] [ssl] [info] szrsa.sutpc.com:8443 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls13"]
 [tls-version] [ssl] [info] qn.sutpc.com:443 ["tls13"]
-[tls-version] [ssl] [info] bjfy.sutpc.com:7443 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] szrsa.sutpc.com:8443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] qn.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [tls-version] [ssl] [info] atrust.sutpc.com:1443 ["tls12"]
-[tls-version] [ssl] [info] cas.sutpc.com:7443 ["tls12"]
+[tls-version] [ssl] [info] signal.sutpc.com:7443 ["tls12"]
 [tls-version] [ssl] [info] atrust.sutpc.com:1443 ["tls13"]
-[tls-version] [ssl] [info] srm.sutpc.com:7443 ["tls12"]
-[tls-version] [ssl] [info] transos.sutpc.com:7443 ["tls12"]
-[missing-sri] [http] [info] https://mail.sutpc.com:443/ ["https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/loginpage_domain_vip_custom_new/index809624.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/safeauth527dd7.js","https://ssl.captcha.qq.com/TCaptcha.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/common/index809624.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/style/vue/loginpage_domain_vip_custom_new/index80977a.css"]
-[missing-cookie-samesite-strict] [http] [info] https://mail.sutpc.com:443 ["sms_id=Gi8GAIdtUYhu/Ed0tbd5G1x/VExfopra6/ajPg+jLJs=; Domain=mail.sutpc.com; Path=/; HttpOnly ssl_edition=mail.qq.com; Domain=mail.sutpc.com; Path=/; HttpOnly sms_id=Xj56eO1I7Q6rjl6/aiwFL7YZYv6WES5GIcM4Z477rP8=; Domain=mail.sutpc.com; Path=/; HttpOnly"]
+[tls-version] [ssl] [info] rddms.sutpc.com:7443 ["tls12"]
+[tls-version] [ssl] [info] tp.sutpc.com:7443 ["tls12"]
+[missing-sri] [http] [info] https://mail.sutpc.com:443/ ["https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/safeauth527dd7.js","https://ssl.captcha.qq.com/TCaptcha.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/common/index809624.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/loginpage_domain_vip_custom_new/index809624.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/style/vue/loginpage_domain_vip_custom_new/index80977a.css"]
+[missing-cookie-samesite-strict] [http] [info] https://mail.sutpc.com:443 ["sms_id=V/HPeuDdQG68+hJzVybyfGKOcbVLDiPLPpqcFleCyEk=; Domain=mail.sutpc.com; Path=/; HttpOnly ssl_edition=mail.qq.com; Domain=mail.sutpc.com; Path=/; HttpOnly sms_id=Z4TFFgFzAyFK1Y9AjTgWGYXgNUc7eTxoLnAATNdityM=; Domain=mail.sutpc.com; Path=/; HttpOnly"]
 [tech-detect:nginx] [http] [info] https://szrsa.sutpc.com:8443
-[robots-txt] [http] [info] https://mail.sutpc.com:443/robots.txt
-[robots-txt] [http] [info] https://atrust.sutpc.com:1443/robots.txt
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:referrer-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:content-security-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:x-frame-options] [http] [info] https://bjfy.sutpc.com:7443
+[http-missing-security-headers:permissions-policy] [http] [info] https://szrsa.sutpc.com:8443
+[http-missing-security-headers:x-frame-options] [http] [info] https://szrsa.sutpc.com:8443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://szrsa.sutpc.com:8443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://szrsa.sutpc.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:permissions-policy] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:x-frame-options] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:referrer-policy] [http] [info] https://szrsa.sutpc.com:8443
 [http-missing-security-headers:content-security-policy] [http] [info] https://signal.sutpc.com:7443
+[http-missing-security-headers:permissions-policy] [http] [info] https://signal.sutpc.com:7443
 [http-missing-security-headers:x-frame-options] [http] [info] https://signal.sutpc.com:7443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://signal.sutpc.com:7443
+[http-missing-security-headers:referrer-policy] [http] [info] https://signal.sutpc.com:7443
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://signal.sutpc.com:7443
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://signal.sutpc.com:7443
 [http-missing-security-headers:strict-transport-security] [http] [info] https://signal.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://signal.sutpc.com:7443
 [http-missing-security-headers:x-content-type-options] [http] [info] https://signal.sutpc.com:7443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://signal.sutpc.com:7443
-[http-missing-security-headers:referrer-policy] [http] [info] https://signal.sutpc.com:7443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:content-security-policy] [http] [info] https://tp.sutpc.com:7443
+[http-missing-security-headers:referrer-policy] [http] [info] https://tp.sutpc.com:7443
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://signal.sutpc.com:7443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:x-frame-options] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:content-security-policy] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:referrer-policy] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cas.sutpc.com:7443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:content-security-policy] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:referrer-policy] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:x-frame-options] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:content-security-policy] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:x-frame-options] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:referrer-policy] [http] [info] https://srm.sutpc.com:7443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://transos.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://qn.sutpc.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://cdn.szsiq.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://cdn.szsiq.com:443
+[http-missing-security-headers:permissions-policy] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:x-frame-options] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://szrsa.sutpc.com:8443
+[http-missing-security-headers:referrer-policy] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:content-security-policy] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://rddms.sutpc.com:7443
+[http-missing-security-headers:content-security-policy] [http] [info] https://szrsa.sutpc.com:8443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://szrsa.sutpc.com:8443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://szrsa.sutpc.com:8443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://szrsa.sutpc.com:8443
+[nginx-eol:version] [http] [info] https://szrsa.sutpc.com:8443 ["1.14.1"]
 [http-missing-security-headers:x-content-type-options] [http] [info] https://cdn.szsiq.com:443
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cdn.szsiq.com:443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cdn.szsiq.com:443
 [http-missing-security-headers:referrer-policy] [http] [info] https://cdn.szsiq.com:443
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cdn.szsiq.com:443
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cdn.szsiq.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cdn.szsiq.com:443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cdn.szsiq.com:443
 [http-missing-security-headers:content-security-policy] [http] [info] https://cdn.szsiq.com:443
+[http-missing-security-headers:permissions-policy] [http] [info] https://cdn.szsiq.com:443
 [http-missing-security-headers:x-frame-options] [http] [info] https://cdn.szsiq.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://mail.sutpc.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:strict-transport-security] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:permissions-policy] [http] [info] https://mail.sutpc.com:443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://mail.sutpc.com:443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mail.sutpc.com:443
+[http-missing-security-headers:permissions-policy] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:x-frame-options] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:x-content-type-options] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:strict-transport-security] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:content-security-policy] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:referrer-policy] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://qn.sutpc.com:443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://atrust.sutpc.com:1443/portal/
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://atrust.sutpc.com:1443/portal/
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://atrust.sutpc.com:1443/portal/
 [http-missing-security-headers:strict-transport-security] [http] [info] https://atrust.sutpc.com:1443/portal/
 [http-missing-security-headers:permissions-policy] [http] [info] https://atrust.sutpc.com:1443/portal/
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://atrust.sutpc.com:1443/portal/
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:content-security-policy] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:permissions-policy] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:x-frame-options] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:referrer-policy] [http] [info] https://szrsa.sutpc.com:8443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://szrsa.sutpc.com:8443
-[nginx-eol:version] [http] [info] https://szrsa.sutpc.com:8443 ["1.14.1"]
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com:443
-[s3-detect] [http] [info] https://cdn.szsiq.com:443/%c0
 [csp-script-src-wildcard] [http] [info] https://atrust.sutpc.com:1443
 [weak-csp-detect:unsafe-script-src] [http] [info] https://atrust.sutpc.com:1443 ["script-src 'self' https://lf1-cdn-tos.bytegoofy.com/goofy/lark/op/h5-js-sdk-1.5.29.js https://lf-package-cn.feishucdn.com https://open.feishu.cn     https://atrustcdn.sangfor.com https://127.0.0.1:* https://rescdn.qqmail.com https://g.alicdn.com https://res.wx.qq.com 'unsafe-inline' 'unsafe-eval';object-src 'self'"]
 [xss-deprecated-header] [http] [info] https://atrust.sutpc.com:1443 ["1; mode=block"]
+[openresty-detect] [http] [info] https://qn.sutpc.com:443
 [csp-script-src-wildcard] [http] [info] https://mail.sutpc.com:443
 [weak-csp-detect:missing-object-src] [http] [info] https://mail.sutpc.com:443 ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
 [weak-csp-detect:unsafe-script-src] [http] [info] https://mail.sutpc.com:443 ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
-[openresty-detect] [http] [info] https://qn.sutpc.com:443
 [nginx-version] [http] [info] https://szrsa.sutpc.com:8443 ["nginx/1.14.1"]
+[robots-txt] [http] [info] https://mail.sutpc.com:443/robots.txt
+[robots-txt] [http] [info] https://atrust.sutpc.com:1443/robots.txt
 [robots-txt-endpoint:endpoints] [http] [info] https://mail.sutpc.com:443/robots.txt ["/cgi-bin/","/domain/"]
-[aaaa-fingerprint] [dns] [info] qn.sutpc.com ["2408:8766:5:1::102","240e:974:eb00:110c::101","240e:974:eb00:110c::105","240e:97d:10:1401::40f","240e:f7:c000:317::13"]
-[aaaa-fingerprint] [dns] [info] mail.sutpc.com ["2402:4e00:1620:1906:0:9a62:18a6:1904","2402:4e00:1620:1906:0:9a62:18a3:6528"]
-[dns-saas-service-detection] [dns] [info] mail.sutpc.com ["tp.exmail.qq.com"]
-[dns-saas-service-detection] [dns] [info] qn.sutpc.com ["qn-sutpc-com-idvoj4z.qiniudns.com"]
-[dns-saas-service-detection] [dns] [info] cdn.szsiq.com ["szsiq-1305556842.cos.ap-guangzhou.myqcloud.com"]
+[s3-detect] [http] [info] https://cdn.szsiq.com:443/%c0
+[aaaa-fingerprint] [dns] [info] mail.sutpc.com ["2402:4e00:1620:1906:0:9a62:18a3:6528","2402:4e00:1620:1906:0:9a62:18a6:1904"]
+[aaaa-fingerprint] [dns] [info] qn.sutpc.com ["240e:974:eb00:110c::105","240e:f7:c000:317::13","2408:8766:5:1::102","240e:97d:10:1401::40f","240e:974:eb00:110c::101"]
 [dns-internal-ip-disclosure] [dns] [info] www.szafi.com.cn ["127.0.0.1"]
-[dns-saas-service-detection] [dns] [info] en.szafi.com.cn ["www.szafi.com.cn"]
 [dns-internal-ip-disclosure] [dns] [info] en.szafi.com.cn ["127.0.0.1"]
-[ssl-issuer] [ssl] [info] qn.sutpc.com:443 ["iTranswarp"]
-[expired-ssl] [ssl] [low] qn.sutpc.com:443 ["2026-09-19 07:24:41 +0000 UTC"]
-[mismatched-ssl-certificate] [ssl] [info] qn.sutpc.com:443 ["CN: www.cloudcdn.site"]
-[self-signed-ssl] [ssl] [low] qn.sutpc.com:443
-[ssl-issuer] [ssl] [info] srm.sutpc.com:7443 ["sangfor"]
-[mismatched-ssl-certificate] [ssl] [info] srm.sutpc.com:7443 ["CN: SANGFOR"]
-[self-signed-ssl] [ssl] [low] srm.sutpc.com:7443
-[ssl-dns-names] [ssl] [info] srm.sutpc.com:7443 ["10.251.251.251"]
-[ssl-issuer] [ssl] [info] bjfy.sutpc.com:7443 ["sangfor"]
-[mismatched-ssl-certificate] [ssl] [info] bjfy.sutpc.com:7443 ["CN: SANGFOR"]
-[self-signed-ssl] [ssl] [low] bjfy.sutpc.com:7443
-[ssl-dns-names] [ssl] [info] bjfy.sutpc.com:7443 ["10.251.251.251"]
-[ssl-issuer] [ssl] [info] transos.sutpc.com:7443 ["sangfor"]
-[mismatched-ssl-certificate] [ssl] [info] transos.sutpc.com:7443 ["CN: SANGFOR"]
-[self-signed-ssl] [ssl] [low] transos.sutpc.com:7443
-[ssl-dns-names] [ssl] [info] transos.sutpc.com:7443 ["10.251.251.251"]
-[ssl-issuer] [ssl] [info] cas.sutpc.com:7443 ["sangfor"]
-[mismatched-ssl-certificate] [ssl] [info] cas.sutpc.com:7443 ["CN: SANGFOR"]
-[self-signed-ssl] [ssl] [low] cas.sutpc.com:7443
-[ssl-dns-names] [ssl] [info] cas.sutpc.com:7443 ["10.251.251.251"]
-[ssl-issuer] [ssl] [info] signal.sutpc.com:7443 ["sangfor"]
-[mismatched-ssl-certificate] [ssl] [info] signal.sutpc.com:7443 ["CN: SANGFOR"]
-[self-signed-ssl] [ssl] [low] signal.sutpc.com:7443
-[ssl-dns-names] [ssl] [info] signal.sutpc.com:7443 ["10.251.251.251"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
-[wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] atrust.sutpc.com:1443 ["DigiCert, Inc."]
-[ssl-dns-names] [ssl] [info] atrust.sutpc.com:1443 ["*.sutpc.com","sutpc.com"]
-[wildcard-tls] [ssl] [info] atrust.sutpc.com:1443 ["CN: *.sutpc.com","SAN: [*.sutpc.com sutpc.com]"]
-[ssl-issuer] [ssl] [info] mail.sutpc.com:443 ["DigiCert, Inc."]
-[mismatched-ssl-certificate] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com"]
-[ssl-dns-names] [ssl] [info] mail.sutpc.com:443 ["m.exmail.qmail.com","mxbiz1.qq.com","mxbiz2.qq.com","*.exmail.qq.com","boss.exmailgz.com","exmail.qmail.com","support.exmailgz.com","exmail.qq.com","cloudmx.qq.com","exmail.weixin.qq.com","exmail.work.weixin.qq.com"]
-[wildcard-tls] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com","SAN: [*.exmail.qq.com boss.exmailgz.com cloudmx.qq.com exmail.qmail.com exmail.weixin.qq.com exmail.work.weixin.qq.com m.exmail.qmail.com mxbiz1.qq.com mxbiz2.qq.com support.exmailgz.com exmail.qq.com]"]
-[ssl-issuer] [ssl] [info] www.sutpc.com:443 ["DigiCert, Inc."]
-[ssl-dns-names] [ssl] [info] www.sutpc.com:443 ["*.sutpc.com","sutpc.com"]
-[wildcard-tls] [ssl] [info] www.sutpc.com:443 ["CN: *.sutpc.com","SAN: [*.sutpc.com sutpc.com]"]
+[dns-saas-service-detection] [dns] [info] qn.sutpc.com ["qn-sutpc-com-idvoj4z.qiniudns.com"]
 [ssl-issuer] [ssl] [info] cdn.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
 [ssl-dns-names] [ssl] [info] cdn.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
 [untrusted-root-certificate] [ssl] [low] cdn.szsiq.com:443
 [wildcard-tls] [ssl] [info] cdn.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] atrust.sutpc.com:1443 ["DigiCert, Inc."]
+[ssl-dns-names] [ssl] [info] atrust.sutpc.com:1443 ["*.sutpc.com","sutpc.com"]
+[wildcard-tls] [ssl] [info] atrust.sutpc.com:1443 ["CN: *.sutpc.com","SAN: [*.sutpc.com sutpc.com]"]
+[ssl-issuer] [ssl] [info] qn.sutpc.com:443 ["iTranswarp"]
+[expired-ssl] [ssl] [low] qn.sutpc.com:443 ["2026-09-19 07:24:41 +0000 UTC"]
+[mismatched-ssl-certificate] [ssl] [info] qn.sutpc.com:443 ["CN: www.cloudcdn.site"]
+[self-signed-ssl] [ssl] [low] qn.sutpc.com:443
 [ssl-issuer] [ssl] [info] szrsa.sutpc.com:8443 ["DigiCert, Inc."]
 [ssl-dns-names] [ssl] [info] szrsa.sutpc.com:8443 ["*.sutpc.com","sutpc.com"]
-[wildcard-tls] [ssl] [info] szrsa.sutpc.com:8443 ["SAN: [*.sutpc.com sutpc.com]","CN: *.sutpc.com"]
+[wildcard-tls] [ssl] [info] szrsa.sutpc.com:8443 ["CN: *.sutpc.com","SAN: [*.sutpc.com sutpc.com]"]
+[ssl-issuer] [ssl] [info] mail.sutpc.com:443 ["DigiCert, Inc."]
+[mismatched-ssl-certificate] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com"]
+[ssl-dns-names] [ssl] [info] mail.sutpc.com:443 ["boss.exmailgz.com","exmail.weixin.qq.com","exmail.work.weixin.qq.com","m.exmail.qmail.com","support.exmailgz.com","exmail.qq.com","*.exmail.qq.com","cloudmx.qq.com","exmail.qmail.com","mxbiz1.qq.com","mxbiz2.qq.com"]
+[wildcard-tls] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com","SAN: [*.exmail.qq.com boss.exmailgz.com cloudmx.qq.com exmail.qmail.com exmail.weixin.qq.com exmail.work.weixin.qq.com m.exmail.qmail.com mxbiz1.qq.com mxbiz2.qq.com support.exmailgz.com exmail.qq.com]"]
+[ssl-issuer] [ssl] [info] signal.sutpc.com:7443 ["sangfor"]
+[mismatched-ssl-certificate] [ssl] [info] signal.sutpc.com:7443 ["CN: SANGFOR"]
+[self-signed-ssl] [ssl] [low] signal.sutpc.com:7443
+[ssl-dns-names] [ssl] [info] signal.sutpc.com:7443 ["10.251.251.251"]
+[ssl-issuer] [ssl] [info] rddms.sutpc.com:7443 ["sangfor"]
+[mismatched-ssl-certificate] [ssl] [info] rddms.sutpc.com:7443 ["CN: SANGFOR"]
+[self-signed-ssl] [ssl] [low] rddms.sutpc.com:7443
+[ssl-dns-names] [ssl] [info] rddms.sutpc.com:7443 ["10.251.251.251"]
+[ssl-issuer] [ssl] [info] tp.sutpc.com:7443 ["sangfor"]
+[mismatched-ssl-certificate] [ssl] [info] tp.sutpc.com:7443 ["CN: SANGFOR"]
+[self-signed-ssl] [ssl] [low] tp.sutpc.com:7443
+[ssl-dns-names] [ssl] [info] tp.sutpc.com:7443 ["10.251.251.251"]
+[ssl-issuer] [ssl] [info] www.sutpc.com:443 ["DigiCert, Inc."]
+[ssl-dns-names] [ssl] [info] www.sutpc.com:443 ["*.sutpc.com","sutpc.com"]
+[wildcard-tls] [ssl] [info] www.sutpc.com:443 ["CN: *.sutpc.com","SAN: [*.sutpc.com sutpc.com]"]
