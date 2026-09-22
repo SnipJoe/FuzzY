@@ -6,3 +6,6 @@ Afrog/3.5.1 | Security Toolkit | Lightweight, Fast, and Direct to the Flaw.
 [✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
 [✓] OOB:   Not required (no OOB PoCs) 
 ════════════════════════════════════════════════════════
+001 09-22 21:38:30 smtp-detect INFO mailx.szap.com:25 
+002 09-22 21:41:26 shiro-detect INFO https://www.smartcitysz.com:443/ 
+003 09-22 21:41:34 shiro-detect INFO http://www.smartcitysz.com:80/ 
