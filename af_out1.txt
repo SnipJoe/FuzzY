@@ -6,9 +6,7 @@ Afrog/3.5.1 | Security Toolkit | Lightweight, Fast, and Direct to the Flaw.
 [✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
 [✓] OOB:   Not required (no OOB PoCs) 
 ════════════════════════════════════════════════════════
-001 09-23 04:30:19 ssh-detect INFO szrsa.sutpc.com:22 [ssh="SSH-2.0-OpenSSH_8.0"]
-002 09-23 04:30:20 ssh-detect INFO en.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
-003 09-23 04:30:20 ssh-detect INFO www.szafi.com.cn:22 [ssh="SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.19"]
-004 09-23 04:31:53 telnet-detect INFO szrsa.sutpc.com:22 
-005 09-23 04:31:54 telnet-detect INFO www.szafi.com.cn:22 
-006 09-23 04:31:54 telnet-detect INFO en.szafi.com.cn:22 
+001 09-23 22:03:04 smtp-detect INFO mailx.szap.com:25 
+002 09-23 22:03:19 smtp-detect INFO mx.szap.com:25 
+003 09-23 22:07:11 shiro-detect INFO http://www.smartcitysz.com:80/ 
+004 09-23 22:07:22 shiro-detect INFO https://www.smartcitysz.com:443/ 
