@@ -6,7 +6,3 @@ Afrog/3.5.1 | Security Toolkit | Lightweight, Fast, and Direct to the Flaw.
 [✓] Cur:   0/pocs https://t.zsxq.com/lV66x 
 [✖] OOB:   ceyeio (Not configured) 
 ════════════════════════════════════════════════════════
-001 11-14 02:22:51 shiro-detect INFO https://www.smartcitysz.com/ 
-002 11-14 02:23:04 加速乐 INFO https://cdn.szsiq.com/ 
-003 11-14 02:23:04 加速乐 INFO https://www.szsiq.com/ 
-004 11-14 02:23:39 spring-detect INFO https://www.smartcitysz.com/error 
