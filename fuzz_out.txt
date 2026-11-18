@@ -1,93 +1,91 @@
-[wildcard-dns-detect] [dns] [info] 3MEwwdv8A0UIX9BIa9OwObnqt5e-3MEwwdv8A0UIX9BIa9OwObnqt5e.mail.sztop.com ["18.192.252.23"]
+[dns-rebinding:IPv4] [dns] [unknown] en.szafi.com.cn ["127.0.0.1"]
 [dns-rebinding:IPv4] [dns] [unknown] civilos.sutpc.com ["10.10.180.137"]
-[wildcard-dns-detect] [dns] [info] 3MEwwdv8A0UIX9BIa9OwObnqt5e-3MEwwdv8A0UIX9BIa9OwObnqt5e.kleinanzeigen.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3MHiqQWTpaSCq6MaJ9iLoWjuE5n-3MHiqQWTpaSCq6MaJ9iLoWjuE5n.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3MHiqQWTpaSCq6MaJ9iLoWjuE5n-3MHiqQWTpaSCq6MaJ9iLoWjuE5n.kleinanzeigen.sztop.com ["18.192.252.23"]
 [dns-rebinding:IPv4] [dns] [unknown] www.szafi.com.cn ["127.0.0.1"]
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-rebinding:IPv4] [dns] [unknown] en.szafi.com.cn ["127.0.0.1"]
+[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [azure-domain-tenant:tenant_id] [http] [info] https://login.microsoftonline.com:443/sutpc.com/v2.0/.well-known/openid-configuration ["fba89935-ed16-4d70-8b6e-98b9f533fcaa"]
 [cookies-without-secure] [javascript] [info] mail.sutpc.com ["sms_id","ssl_edition"]
-[waf-detect:jiasule] [http] [info] https://cdn.szsiq.com
-[waf-detect:chuangyudun] [http] [info] https://cdn.szsiq.com
 [waf-detect:jiasule] [http] [info] https://www.szsiq.com
 [waf-detect:chuangyudun] [http] [info] https://www.szsiq.com
 [deprecated-tls:tls_1.1] [ssl] [info] mail.sutpc.com:443 ["tls11"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:443 ["tls11"]
 [deprecated-tls:tls_1.0] [ssl] [info] mail.sutpc.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:443 ["tls10"]
 [tls-version] [ssl] [info] mail.sutpc.com:443 ["tls10"]
 [tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:443 ["tls10"]
 [weak-cipher-suites:tls-1.0] [ssl] [low] mail.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls12"]
 [weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
+[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls11"]
 [weak-cipher-suites:tls-1.1] [ssl] [low] mail.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls10"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
-[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls11"]
 [weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls13"]
+[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:443 ["tls10"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls12"]
 [tls-version] [ssl] [info] www.szsiq.com:443 ["tls11"]
+[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:443 ["tls10"]
+[tls-version] [ssl] [info] cdn.szsiq.com:443 ["tls13"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
 [tls-version] [ssl] [info] www.szsiq.com:443 ["tls13"]
+[csp-script-src-wildcard] [http] [info] https://mail.sutpc.com
+[weak-csp-detect:missing-object-src] [http] [info] https://mail.sutpc.com ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
+[weak-csp-detect:unsafe-script-src] [http] [info] https://mail.sutpc.com ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
+[missing-sri] [http] [info] https://mail.sutpc.com/ ["https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/common/index81ab50.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/loginpage_domain_vip_custom_new/index81ab50.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/safeauth527dd7.js","https://ssl.captcha.qq.com/TCaptcha.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/style/vue/loginpage_domain_vip_custom_new/index81b0f5.css"]
+[missing-cookie-samesite-strict] [http] [info] https://mail.sutpc.com ["sms_id=Xs2Z2PkokfH+irBGiqBAaQ04iwIAAypPb9rWzqU9KWs=; Domain=mail.sutpc.com; Path=/; HttpOnly ssl_edition=mail.qq.com; Domain=mail.sutpc.com; Path=/; HttpOnly sms_id=JFEZwCAGJvtSKYvsE9kY7bPP9l4Xucnb+OTH1/UNeAY=; Domain=mail.sutpc.com; Path=/; HttpOnly"]
+[missing-cookie-samesite-strict] [http] [info] https://www.szsiq.com ["__jsluid_s=0fad079d037b3997cc505d3faaa70365; max-age=31536000; path=/; HttpOnly; SameSite=None; secure"]
+[missing-cookie-samesite-strict] [http] [info] https://cdn.szsiq.com ["__jsluid_s=3e1482630301c8d3899353cdbc8dc774; max-age=31536000; path=/; HttpOnly; SameSite=None; secure"]
+[robots-txt] [http] [info] https://mail.sutpc.com/robots.txt
+[http-missing-security-headers:permissions-policy] [http] [info] https://mail.sutpc.com
 [http-missing-security-headers:x-content-type-options] [http] [info] https://mail.sutpc.com
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mail.sutpc.com
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mail.sutpc.com
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mail.sutpc.com
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mail.sutpc.com
 [http-missing-security-headers:strict-transport-security] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:permissions-policy] [http] [info] https://mail.sutpc.com
-[http-missing-security-headers:content-security-policy] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cdn.szsiq.com
 [http-missing-security-headers:permissions-policy] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://cdn.szsiq.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://cdn.szsiq.com
 [http-missing-security-headers:x-frame-options] [http] [info] https://cdn.szsiq.com
 [http-missing-security-headers:x-content-type-options] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://cdn.szsiq.com
 [http-missing-security-headers:referrer-policy] [http] [info] https://cdn.szsiq.com
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://cdn.szsiq.com
 [http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:strict-transport-security] [http] [info] https://cdn.szsiq.com
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com
-[robots-txt] [http] [info] https://mail.sutpc.com/robots.txt
-[csp-script-src-wildcard] [http] [info] https://mail.sutpc.com
-[weak-csp-detect:missing-object-src] [http] [info] https://mail.sutpc.com ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
-[weak-csp-detect:unsafe-script-src] [http] [info] https://mail.sutpc.com ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
-[missing-cookie-samesite-strict] [http] [info] https://mail.sutpc.com ["sms_id=rKXpzCApOnse0o5GFFDnfX5eFq+hRJ+/KMRoveypnsM=; Domain=mail.sutpc.com; Path=/; HttpOnly ssl_edition=mail.qq.com; Domain=mail.sutpc.com; Path=/; HttpOnly sms_id=eZdDHL+A9jca+bpBCkxnjr8MPGnfvde1C/PJEGytCRA=; Domain=mail.sutpc.com; Path=/; HttpOnly"]
-[missing-cookie-samesite-strict] [http] [info] https://cdn.szsiq.com ["__jsluid_s=f6683312df8b54598a1e56bcecb59d30; max-age=31536000; path=/; HttpOnly; SameSite=None; secure"]
-[missing-cookie-samesite-strict] [http] [info] https://www.szsiq.com ["__jsluid_s=fd8b07fc0d41a028257b74b65e8ea83e; max-age=31536000; path=/; HttpOnly; SameSite=None; secure"]
-[missing-sri] [http] [info] https://mail.sutpc.com/ ["https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/safeauth527dd7.js","https://ssl.captcha.qq.com/TCaptcha.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/common/index81ab50.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/loginpage_domain_vip_custom_new/index81ab50.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/style/vue/loginpage_domain_vip_custom_new/index81b0f5.css"]
 [robots-txt-endpoint:endpoints] [http] [info] https://mail.sutpc.com/robots.txt ["/cgi-bin/","/domain/"]
-[aaaa-fingerprint] [dns] [info] mail.sutpc.com ["2402:4e00:1620:1906:0:9a62:18a3:6528","2402:4e00:1620:1906:0:9a62:18a6:1904"]
-[dns-saas-service-detection] [dns] [info] mail.sutpc.com ["tp.exmail.qq.com"]
 [dns-saas-service-detection] [dns] [info] cdn.szsiq.com ["4ccdb33f112fb03c.cname.365cyd.cn"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","240e:95c:806:40::419"]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.cyudun.net.","ns2.cyudun.net."]
+[dns-saas-service-detection] [dns] [info] mail.sutpc.com ["tp.exmail.qq.com"]
 [dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
+[aaaa-fingerprint] [dns] [info] cdn.szsiq.com ["240e:965:802:1040::400","2409:8c50:a00:2163:8000::5"]
+[aaaa-fingerprint] [dns] [info] mail.sutpc.com ["2402:4e00:1620:1906:0:9a62:18a6:1904","2402:4e00:1620:1906:0:9a62:18a3:6528"]
 [ssl-issuer] [ssl] [info] mail.sutpc.com:443 ["DigiCert, Inc."]
 [mismatched-ssl-certificate] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com"]
-[ssl-dns-names] [ssl] [info] mail.sutpc.com:443 ["boss.exmailgz.com","m.exmail.qmail.com","cloudmx.qq.com","exmail.weixin.qq.com","exmail.work.weixin.qq.com","support.exmailgz.com","exmail.qq.com","*.exmail.qq.com","exmail.qmail.com","mxbiz1.qq.com","mxbiz2.qq.com","topic.weixin.qq.com"]
-[wildcard-tls] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com","SAN: [*.exmail.qq.com topic.weixin.qq.com boss.exmailgz.com exmail.qmail.com m.exmail.qmail.com mxbiz1.qq.com mxbiz2.qq.com cloudmx.qq.com exmail.weixin.qq.com exmail.work.weixin.qq.com support.exmailgz.com exmail.qq.com]"]
+[ssl-dns-names] [ssl] [info] mail.sutpc.com:443 ["exmail.weixin.qq.com","support.exmailgz.com","*.exmail.qq.com","topic.weixin.qq.com","boss.exmailgz.com","m.exmail.qmail.com","mxbiz2.qq.com","cloudmx.qq.com","exmail.work.weixin.qq.com","exmail.qq.com","exmail.qmail.com","mxbiz1.qq.com"]
+[wildcard-tls] [ssl] [info] mail.sutpc.com:443 ["SAN: [*.exmail.qq.com topic.weixin.qq.com boss.exmailgz.com exmail.qmail.com m.exmail.qmail.com mxbiz1.qq.com mxbiz2.qq.com cloudmx.qq.com exmail.weixin.qq.com exmail.work.weixin.qq.com support.exmailgz.com exmail.qq.com]","CN: *.exmail.qq.com"]
+[nameserver-fingerprint] [dns] [info] cdn.szsiq.com ["ns1.365cyd.net.","ns2.kangdns.com.","ns2.365cyd.net.","ns1.jiasule.net.","ns1.kangdns.com.","ns2.jiasule.net."]
+[ssl-issuer] [ssl] [info] cdn.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] cdn.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] cdn.szsiq.com:443
+[wildcard-tls] [ssl] [info] cdn.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:965:802:1040::400"]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.kangdns.com.","ns1.kangdns.com.","ns1.jiasule.net.","ns2.365cyd.net.","ns1.365cyd.net.","ns2.jiasule.net."]
 [ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
 [ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
 [untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
 [wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] cdn.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] cdn.szsiq.com:443 ["szsiq.com","*.szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] cdn.szsiq.com:443
-[wildcard-tls] [ssl] [info] cdn.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[nameserver-fingerprint] [dns] [info] cdn.szsiq.com ["ns1.kangdns.com.","ns2.kangdns.com.","ns2.365cyd.net.","ns1.365cyd.net.","ns2.jiasule.net.","ns1.jiasule.net."]
-[aaaa-fingerprint] [dns] [info] cdn.szsiq.com ["2409:8c50:a00:2163:8000::5","2409:8c04:1101:3050::407"]

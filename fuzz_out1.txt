@@ -1,211 +1,3 @@
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.kleinanzeigen.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[wildcard-dns-detect] [dns] [info] 3MF1WvTAD8xmq2wMzuqTA4XX9HP-3MF1WvTAD8xmq2wMzuqTA4XX9HP.mail.sztop.com ["18.192.252.23"]
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
@@ -221,71 +13,35 @@
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
@@ -301,174 +57,70 @@
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
+[wildcard-dns-detect] [dns] [info] 3MHmccOGU6zPwvW8OkFnZ6XiCdI-3MHmccOGU6zPwvW8OkFnZ6XiCdI.kleinanzeigen.sztop.com ["18.192.252.23"]
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
+[wildcard-dns-detect] [dns] [info] 3MHmccOGU6zPwvW8OkFnZ6XiCdI-3MHmccOGU6zPwvW8OkFnZ6XiCdI.mail.sztop.com ["18.192.252.23"]
+[wildcard-dns-detect] [dns] [info] 3MHmccOGU6zPwvW8OkFnZ6XiCdI-3MHmccOGU6zPwvW8OkFnZ6XiCdI.mail.sztop.com ["18.192.252.23"]
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] cdn.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] cdn.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-rebinding:IPv4] [dns] [unknown] www.szafi.com.cn ["127.0.0.1"]
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
@@ -498,11 +150,6 @@
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
@@ -515,380 +162,329 @@
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
 [dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
 [dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[dns-waf-detect:chuangyudun] [dns] [info] www.szsiq.com
-[dns-waf-detect:knownsec-ns] [dns] [info] www.szsiq.com
-[azure-domain-tenant:tenant_id] [http] [info] https://login.microsoftonline.com:443/sutpc.com/v2.0/.well-known/openid-configuration ["fba89935-ed16-4d70-8b6e-98b9f533fcaa"]
 [azure-domain-tenant:tenant_id] [http] [info] https://login.microsoftonline.com:443/sutpc.com/v2.0/.well-known/openid-configuration ["fba89935-ed16-4d70-8b6e-98b9f533fcaa"]
 [azure-domain-tenant:tenant_id] [http] [info] https://login.microsoftonline.com:443/sutpc.com/v2.0/.well-known/openid-configuration ["fba89935-ed16-4d70-8b6e-98b9f533fcaa"]
 [azure-domain-tenant:tenant_id] [http] [info] https://login.microsoftonline.com:443/sutpc.com/v2.0/.well-known/openid-configuration ["fba89935-ed16-4d70-8b6e-98b9f533fcaa"]
 [cookies-without-secure] [javascript] [info] mail.sutpc.com:443 ["sms_id","ssl_edition"]
-[waf-detect:jiasule] [http] [info] https://www.szsiq.com:443
-[waf-detect:chuangyudun] [http] [info] https://www.szsiq.com:443
-[ssh-auth-methods] [javascript] [info] en.szafi.com.cn:22 ["["publickey","password"]"]
+[waf-detect:jiasule] [http] [info] https://cdn.szsiq.com:443
+[waf-detect:chuangyudun] [http] [info] https://cdn.szsiq.com:443
 [ssh-auth-methods] [javascript] [info] www.szafi.com.cn:22 ["["publickey","password"]"]
+[ssh-auth-methods] [javascript] [info] en.szafi.com.cn:22 ["["publickey","password"]"]
 [ssh-password-auth] [javascript] [info] en.szafi.com.cn:22
 [ssh-password-auth] [javascript] [info] www.szafi.com.cn:22
 [ssh-server-enumeration] [javascript] [info] en.szafi.com.cn:22 ["SSH-2.0-OpenSSH_10.2p1 Ubuntu-2ubuntu3.8"]
 [ssh-server-enumeration] [javascript] [info] www.szafi.com.cn:22 ["SSH-2.0-OpenSSH_10.2p1 Ubuntu-2ubuntu3.8"]
-[ssh-sha1-hmac-algo] [javascript] [info] en.szafi.com.cn:22
 [ssh-sha1-hmac-algo] [javascript] [info] www.szafi.com.cn:22
+[ssh-sha1-hmac-algo] [javascript] [info] en.szafi.com.cn:22
+[openssh-detect] [tcp] [info] www.szafi.com.cn:22 ["SSH-2.0-OpenSSH_10.2p1 Ubuntu-2ubuntu3.8"]
+[openssh-detect] [tcp] [info] en.szafi.com.cn:22 ["SSH-2.0-OpenSSH_10.2p1 Ubuntu-2ubuntu3.8"]
 [deprecated-tls:tls_1.1] [ssl] [info] mail.sutpc.com:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8000 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:83 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:10010 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8085 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] cdn.szsiq.com:9898 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8081 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8500 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:443 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8654 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:10000 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:7921 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:50001 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8193 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:89 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] mail.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8000 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8011 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:10010 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8654 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8500 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8081 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8193 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:88 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:7004 ["tls10"]
-[tls-version] [ssl] [info] cdn.szsiq.com:9898 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:7921 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8084 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:10000 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:7999 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8193 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:88 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8085 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8081 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:7004 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] cdn.szsiq.com:9898 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:83 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8400 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:7921 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:10010 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:8085 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8011 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:7999 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8000 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:10000 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8500 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:83 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:50001 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[robots-txt-endpoint:endpoints] [http] [info] https://mail.sutpc.com:443/robots.txt ["/cgi-bin/","/domain/"]
-[tls-version] [ssl] [info] www.szsiq.com:8400 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8084 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] mail.sutpc.com:443 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8654 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:4443 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8008 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:5200 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:3030 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:7007 ["tls11"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:7999 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8083 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:6788 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:82 ["tls11"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8400 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:88 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8084 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8011 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:7004 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:10010 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] cdn.szsiq.com:9898 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8654 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8085 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:83 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:10000 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8081 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8000 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:443 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8500 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:7921 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:50001 ["tls10"]
-[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] mail.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8899 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8899 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8899 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:89 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:89 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:89 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:10000 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8500 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8654 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:7999 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8081 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8011 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:10010 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8000 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] cdn.szsiq.com:9898 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8081 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8193 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:7004 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:88 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] cdn.szsiq.com:9898 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:50001 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:7921 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8085 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:8193 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:7004 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:83 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8400 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8011 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:10000 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8500 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8000 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:83 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:50001 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:7999 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:7921 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8085 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:10010 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8654 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:8400 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8087 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:5001 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:801 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:5000 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:6000 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8086 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:85 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8500 ["tls11"]
+[deprecated-tls:tls_1.0] [ssl] [info] mail.sutpc.com:443 ["tls10"]
+[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8008 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:4443 ["tls10"]
 [deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:7999 ["tls10"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8007 ["tls11"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:6000 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:82 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:3030 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8087 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8083 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:5000 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:6788 ["tls10"]
 [deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8400 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8084 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8011 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:7004 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8193 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:801 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:85 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8086 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:4443 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:6000 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:5200 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:8400 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:6788 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:82 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:8007 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:7999 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:7007 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:8087 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:8083 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:8500 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:85 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8500 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:3030 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:5000 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] mail.sutpc.com:443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] mail.sutpc.com:443 ["tls11"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:5200 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:3030 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8008 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:801 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8083 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:82 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:7999 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:7007 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8007 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:6000 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:4443 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:5001 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8400 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:5000 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8500 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8087 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:85 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:6788 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:7007 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:5200 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:5001 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:8086 ["tls10"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] mail.sutpc.com:443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:5001 ["tls10"]
 [tls-version] [ssl] [info] mail.sutpc.com:443 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:8899 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:89 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8899 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:89 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:8654 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:8500 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:8081 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:7999 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:10000 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:10010 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:8011 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:50001 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:83 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:8193 ["tls12"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8899 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8084 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8085 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8084 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:88 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8400 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:6788 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:7999 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8007 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8087 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:4443 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:82 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:801 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:7007 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8500 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8083 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:85 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:5000 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:3030 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:8899 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8008 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8086 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:5200 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:82 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:3030 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:801 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:7999 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8008 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8083 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:6000 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8007 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:7007 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8087 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:5001 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:4443 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:6788 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:85 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8500 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:8086 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:5001 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8087 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8007 ["tls10"]
 [tls-version] [ssl] [info] www.szsiq.com:8400 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:8500 ["tls13"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:88 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:10000 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:7999 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:8081 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:8654 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:443 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:4443 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:7999 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:82 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:6788 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:7007 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:8500 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:85 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:5000 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:3030 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:801 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8008 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:5200 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8086 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9000 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8011 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:8193 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:83 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:8085 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:10010 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:8899 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:89 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:7004 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:8400 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:8084 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:88 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:8000 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:50001 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:7921 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9009 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8087 ["tls13"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8400 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:7999 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:4443 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:6788 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:82 ["tls13"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9001 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9080 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9099 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9081 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9101 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9002 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:7007 ["tls13"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9090 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9010 ["tls11"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9100 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:7004 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:89 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9009 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9001 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9080 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9000 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9009 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9001 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9099 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9000 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9081 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9081 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9080 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9103 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9100 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9101 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9207 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9100 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9099 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9101 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9103 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9200 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] cdn.szsiq.com:9898 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9200 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:8084 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9200 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9207 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:88 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:8000 ["tls13"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9900 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:50001 ["tls13"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9998 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] ftl.sutpc.com:7443 ["tls12"]
-[tls-version] [ssl] [info] bjfy.sutpc.com:7443 ["tls12"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9207 ["tls11"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9099 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8500 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:5000 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:3030 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:8086 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:5001 ["tls12"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:99 ["tls11"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9998 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8083 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:5000 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:801 ["tls12"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:8899 ["tls10"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:8899 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:5200 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:8008 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:8086 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9000 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:9001 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9000 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:5001 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9081 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9090 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:9002 ["tls10"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9002 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:9010 ["tls10"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9081 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8899 ["tls10"]
 [deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9001 ["tls10"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9900 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9009 ["tls10"]
-[tls-version] [ssl] [info] cdn.szsiq.com:9898 ["tls13"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9081 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9080 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9101 ["tls10"]
 [deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9100 ["tls10"]
 [deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9999 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:9080 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9000 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9001 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:9009 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:99 ["tls10"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9009 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9099 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9080 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9081 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9081 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9001 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9103 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:9101 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9207 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9100 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9101 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9200 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9103 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9100 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9200 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:8899 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9900 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9207 ["tls11"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9999 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9999 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9200 ["tls11"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9998 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9207 ["tls10"]
-[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:99 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9010 ["tls10"]
+[tls-version] [ssl] [info] bjfy.sutpc.com:7443 ["tls12"]
 [deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9099 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9998 ["tls10"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9900 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:8083 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9099 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:9100 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:9090 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:801 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:5200 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:8008 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:8400 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:85 ["tls13"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9001 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9000 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9002 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9010 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9081 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:8007 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:99 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:8899 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9100 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:99 ["tls10"]
+[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9998 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:9001 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:9081 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:8899 ["tls11"]
 [deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9999 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9001 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:9009 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:9081 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:9103 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:9101 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:9100 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:9900 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:9207 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9999 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9099 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:9999 ["tls11"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9081 ["tls10"]
 [tls-version] [ssl] [info] www.szsiq.com:9998 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9200 ["tls12"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9900 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:99 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
-[tls-version] [ssl] [info] www.szsiq.com:9001 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9009 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9103 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9101 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9081 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9100 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9100 ["tls11"]
 [deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:99 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:9207 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9200 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:99 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:9900 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:9099 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:9999 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:8007 ["tls13"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9998 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9001 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9002 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9081 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9000 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:6000 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:99 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9100 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9998 ["tls10"]
+[tls-version] [ssl] [info] www.szsiq.com:9002 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:9081 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:8899 ["tls12"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9090 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:9001 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:9010 ["tls11"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9099 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [tls-version] [ssl] [info] www.szsiq.com:9998 ["tls11"]
-[tls-version] [ssl] [info] www.szsiq.com:9900 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9099 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:99 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:9080 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:9090 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:9999 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:9000 ["tls11"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9998 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.0] [ssl] [low] www.szsiq.com:9999 ["[tls10 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:9099 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:6000 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:9081 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:8899 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9001 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:99 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:9002 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9010 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:9100 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9090 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9099 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
 [tls-version] [ssl] [info] www.szsiq.com:9998 ["tls12"]
 [tls-version] [ssl] [info] www.szsiq.com:9999 ["tls12"]
-[tls-version] [ssl] [info] www.szsiq.com:99 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9080 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9998 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9999 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9000 ["tls10"]
-[tls-version] [ssl] [info] www.szsiq.com:7921 ["tls13"]
-[tls-version] [ssl] [info] www.szsiq.com:9000 ["tls11"]
+[tls-version] [ssl] [info] www.szsiq.com:6000 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9090 ["tls12"]
 [tls-version] [ssl] [info] www.szsiq.com:9000 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:9010 ["tls12"]
+[weak-cipher-suites:tls-1.1] [ssl] [low] www.szsiq.com:9999 ["[tls11 TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA]"]
+[tls-version] [ssl] [info] www.szsiq.com:9099 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:9002 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9100 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9998 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:99 ["tls12"]
+[tls-version] [ssl] [info] www.szsiq.com:9090 ["tls13"]
 [tls-version] [ssl] [info] www.szsiq.com:9000 ["tls13"]
-[deprecated-tls:tls_1.1] [ssl] [info] www.szsiq.com:9103 ["tls11"]
-[deprecated-tls:tls_1.0] [ssl] [info] www.szsiq.com:9103 ["tls10"]
-[http-missing-security-headers:strict-transport-security] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:content-security-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:x-frame-options] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:referrer-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ftl.sutpc.com:7443
-[http-missing-security-headers:content-security-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:permissions-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:x-frame-options] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bjfy.sutpc.com:7443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bjfy.sutpc.com:7443
+[tls-version] [ssl] [info] www.szsiq.com:9010 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9999 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:99 ["tls13"]
+[tls-version] [ssl] [info] www.szsiq.com:9099 ["tls13"]
+[robots-txt] [http] [info] https://mail.sutpc.com:443/robots.txt
+[missing-cookie-samesite-strict] [http] [info] https://mail.sutpc.com:443 ["sms_id=g5CuAT+doaQ5G4ZuQKf5WDu2gmqILQ6y47ySZEc7Ueg=; Domain=mail.sutpc.com; Path=/; HttpOnly ssl_edition=mail.qq.com; Domain=mail.sutpc.com; Path=/; HttpOnly sms_id=7+uq4yuDQL8h0RDMCcZHZsDoigtx5Ea4myWkYkhFCms=; Domain=mail.sutpc.com; Path=/; HttpOnly"]
+[missing-sri] [http] [info] https://mail.sutpc.com:443/ ["https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/safeauth527dd7.js","https://ssl.captcha.qq.com/TCaptcha.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/common/index81ab50.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/loginpage_domain_vip_custom_new/index81ab50.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/style/vue/loginpage_domain_vip_custom_new/index81b0f5.css"]
+[csp-script-src-wildcard] [http] [info] https://mail.sutpc.com:443
+[weak-csp-detect:missing-object-src] [http] [info] https://mail.sutpc.com:443 ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
+[weak-csp-detect:unsafe-script-src] [http] [info] https://mail.sutpc.com:443 ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
 [http-missing-security-headers:strict-transport-security] [http] [info] https://bjfy.sutpc.com:7443
+[http-missing-security-headers:permissions-policy] [http] [info] https://bjfy.sutpc.com:7443
 [http-missing-security-headers:x-content-type-options] [http] [info] https://bjfy.sutpc.com:7443
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://bjfy.sutpc.com:7443
 [http-missing-security-headers:referrer-policy] [http] [info] https://bjfy.sutpc.com:7443
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://bjfy.sutpc.com:7443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://bjfy.sutpc.com:7443
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://bjfy.sutpc.com:7443
+[http-missing-security-headers:content-security-policy] [http] [info] https://bjfy.sutpc.com:7443
+[http-missing-security-headers:x-frame-options] [http] [info] https://bjfy.sutpc.com:7443
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:strict-transport-security] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:permissions-policy] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:x-content-type-options] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://mail.sutpc.com:443
 [http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://mail.sutpc.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://mail.sutpc.com:443
-[http-missing-security-headers:x-frame-options] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:strict-transport-security] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:permissions-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:x-content-type-options] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:referrer-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.szsiq.com:443
-[http-missing-security-headers:content-security-policy] [http] [info] https://www.szsiq.com:443
-[missing-sri] [http] [info] https://mail.sutpc.com:443/ ["https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/safeauth527dd7.js","https://ssl.captcha.qq.com/TCaptcha.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/common/index81ab50.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/js_biz/vue/loginpage_domain_vip_custom_new/index81ab50.js","https://rescdn.qqmail.com/bizmail/zh_CN/htmledition/style/vue/loginpage_domain_vip_custom_new/index81b0f5.css"]
-[robots-txt] [http] [info] https://mail.sutpc.com:443/robots.txt
-[missing-cookie-samesite-strict] [http] [info] https://mail.sutpc.com:443 ["sms_id=hUsZgfjbIzOrAoxbWpIXsDZFHathnU4+6ebPdfxi4pw=; Domain=mail.sutpc.com; Path=/; HttpOnly ssl_edition=mail.qq.com; Domain=mail.sutpc.com; Path=/; HttpOnly sms_id=IrCAWLV6X78q4abShVWYg2cdpd2pDg476i9Co1AiFvs=; Domain=mail.sutpc.com; Path=/; HttpOnly"]
-[missing-cookie-samesite-strict] [http] [info] https://www.szsiq.com:443 ["__jsluid_s=5ae7852a68fa697152a683e009ea44dc; max-age=31536000; path=/; HttpOnly; SameSite=None; secure"]
-[csp-script-src-wildcard] [http] [info] https://mail.sutpc.com:443
-[weak-csp-detect:unsafe-script-src] [http] [info] https://mail.sutpc.com:443 ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
-[weak-csp-detect:missing-object-src] [http] [info] https://mail.sutpc.com:443 ["script-src 'self' https://tongji.baidu.com https://hm.baidu.com http://hm.baidu.com *.google-analytics.com http://mat1.gtimg.com https://mat1.gtimg.com http://*.soso.com https://*.soso.com http://*.qq.com https://*.qq.com http://*.qqmail.com  https://*.qqmail.com http://*.qmail.com https://*.qmail.com https://midas.gtimg.cn http://midas.gtimg.cn http://pub.idqqimg.com https://captcha.gtimg.com blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://mail.qq.com/cgi-bin/report_cgi?r_subtype=csp&nocheck=false"]
-[dns-internal-ip-disclosure] [dns] [info] www.szafi.com.cn ["127.0.0.1"]
-[dns-internal-ip-disclosure] [dns] [info] en.szafi.com.cn ["127.0.0.1"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
+[robots-txt-endpoint:endpoints] [http] [info] https://mail.sutpc.com:443/robots.txt ["/cgi-bin/","/domain/"]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.jiasule.net.","ns2.365cyd.net.","ns2.kangdns.com.","ns1.kangdns.com.","ns1.jiasule.net.","ns1.365cyd.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.kangdns.com.","ns1.365cyd.net.","ns1.jiasule.net.","ns2.jiasule.net.","ns2.kangdns.com.","ns2.365cyd.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.jiasule.net.","ns1.365cyd.net.","ns2.365cyd.net.","ns1.kangdns.com.","ns2.jiasule.net.","ns2.kangdns.com."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.kangdns.com.","ns1.jiasule.net.","ns2.jiasule.net.","ns1.kangdns.com.","ns1.365cyd.net.","ns2.365cyd.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns2.365cyd.net.","ns2.kangdns.com.","ns1.jiasule.net.","ns1.kangdns.com.","ns2.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.365cyd.net.","ns1.365cyd.net.","ns1.jiasule.net.","ns2.kangdns.com.","ns1.kangdns.com.","ns2.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.kangdns.com.","ns1.jiasule.net.","ns2.kangdns.com.","ns1.365cyd.net.","ns2.365cyd.net.","ns2.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.jiasule.net.","ns2.kangdns.com.","ns2.jiasule.net.","ns1.365cyd.net.","ns1.kangdns.com.","ns2.365cyd.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.365cyd.net.","ns1.365cyd.net.","ns1.jiasule.net.","ns2.jiasule.net.","ns2.kangdns.com.","ns1.kangdns.com."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.kangdns.com.","ns1.jiasule.net.","ns2.jiasule.net.","ns2.365cyd.net.","ns1.kangdns.com.","ns1.365cyd.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.jiasule.net.","ns1.365cyd.net.","ns1.jiasule.net.","ns2.365cyd.net.","ns1.kangdns.com.","ns2.kangdns.com."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.kangdns.com.","ns2.365cyd.net.","ns1.jiasule.net.","ns2.kangdns.com.","ns2.jiasule.net.","ns1.365cyd.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.kangdns.com.","ns2.jiasule.net.","ns1.365cyd.net.","ns1.jiasule.net.","ns2.kangdns.com.","ns2.365cyd.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns2.kangdns.com.","ns1.kangdns.com.","ns1.jiasule.net.","ns2.365cyd.net.","ns2.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.kangdns.com.","ns1.jiasule.net.","ns2.kangdns.com.","ns1.365cyd.net.","ns2.365cyd.net.","ns2.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.365cyd.net.","ns1.jiasule.net.","ns2.kangdns.com.","ns1.kangdns.com.","ns1.365cyd.net.","ns2.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.kangdns.com.","ns2.kangdns.com.","ns2.365cyd.net.","ns1.jiasule.net.","ns2.jiasule.net.","ns1.365cyd.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.kangdns.com.","ns2.365cyd.net.","ns1.jiasule.net.","ns2.jiasule.net.","ns1.365cyd.net.","ns1.kangdns.com."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.jiasule.net.","ns1.365cyd.net.","ns1.kangdns.com.","ns2.kangdns.com.","ns2.365cyd.net.","ns1.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns1.kangdns.com.","ns2.kangdns.com.","ns2.365cyd.net.","ns1.jiasule.net.","ns2.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns1.kangdns.com.","ns2.365cyd.net.","ns1.jiasule.net.","ns2.jiasule.net.","ns2.kangdns.com."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns1.kangdns.com.","ns2.365cyd.net.","ns1.jiasule.net.","ns2.jiasule.net.","ns2.kangdns.com."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.jiasule.net.","ns1.kangdns.com.","ns1.365cyd.net.","ns2.365cyd.net.","ns2.kangdns.com.","ns1.jiasule.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
 [dns-saas-service-detection] [dns] [info] mail.sutpc.com ["tp.exmail.qq.com"]
 [dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
 [dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
@@ -916,220 +512,174 @@
 [dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
 [dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
 [dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
-[dns-saas-service-detection] [dns] [info] cdn.szsiq.com ["4ccdb33f112fb03c.cname.365cyd.cn"]
+[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
+[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
+[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
+[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.jiasule.net.","ns1.365cyd.net.","ns2.kangdns.com.","ns2.365cyd.net.","ns1.kangdns.com.","ns1.jiasule.net."]
 [dns-saas-service-detection] [dns] [info] en.szafi.com.cn ["www.szafi.com.cn"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","2409:8c04:1101:3050::407"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:965:802:1040::400","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:95c:806:40::419"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:95c:806:40::419"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","2409:8c50:a00:2163:8000::5"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:95c:806:40::416"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","2409:8c50:a00:2163:8000::5"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","240e:95c:806:40::416"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] mail.sutpc.com ["2402:4e00:1620:1906:0:9a62:18a3:6528","2402:4e00:1620:1906:0:9a62:18a6:1904"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","2409:8c50:a00:2163:8000::5"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","240e:965:802:1040::400"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:965:802:1040::400","2409:8c50:a00:2163:8000::5"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","2409:8c50:a00:2163:8000::5"]
-[aaaa-fingerprint] [dns] [info] cdn.szsiq.com ["240e:95c:806:40::419","240e:95c:806:40::416"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:940:20c:200:1:8000:0:1"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:940:20c:200:1:8000:0:1"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","2409:8c50:a00:2163:8000::5"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","240e:965:802:1040::400"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","240e:940:20c:200:1:8000:0:1"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:940:20c:200:1:8000:0:1","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","240e:95c:806:40::419"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","2409:8c04:1101:3050::408"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","2409:8c50:a00:2163:8000::5"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","2409:8c50:a00:2163:8000::5"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","2409:8c04:1101:3050::407"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:940:20c:200:1:8000:0:1","240e:965:802:1040::400"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","240e:965:802:1040::400"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","2409:8c04:1101:3050::407"]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.365cyd.net.","ns2.kangdns.com.","ns1.jiasule.net.","ns1.365cyd.net.","ns1.kangdns.com.","ns2.jiasule.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.cyudun.net.","ns2.cyudun.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.365cyd.net.","ns1.jiasule.net.","ns2.kangdns.com.","ns2.jiasule.net.","ns1.kangdns.com.","ns1.365cyd.net."]
-[nameserver-fingerprint] [dns] [info] cdn.szsiq.com ["ns1.jiasule.net.","ns2.jiasule.net.","ns2.365cyd.net.","ns1.kangdns.com.","ns1.365cyd.net.","ns2.kangdns.com."]
+[dns-saas-service-detection] [dns] [info] www.szsiq.com ["49fb5a6e1959c1a3.cname.365cyd.cn"]
 [nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
+[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns2.365cyd.net.","ns2.jiasule.net.","ns1.kangdns.com.","ns2.kangdns.com.","ns1.jiasule.net."]
+[aaaa-fingerprint] [dns] [info] mail.sutpc.com ["2402:4e00:1620:1906:0:9a62:18a6:1904","2402:4e00:1620:1906:0:9a62:18a3:6528"]
 [aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","2409:8c04:1101:3050::407"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:965:802:1040::400","240e:cf:8800:37:2:0:8000:10"]
-[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","240e:cf:8800:37:2:0:8000:10"]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns2.kangdns.com.","ns2.jiasule.net.","ns2.365cyd.net.","ns1.jiasule.net.","ns1.kangdns.com."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.jiasule.net.","ns1.kangdns.com.","ns1.jiasule.net.","ns1.365cyd.net.","ns2.kangdns.com.","ns2.365cyd.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.kangdns.com.","ns2.365cyd.net.","ns2.jiasule.net.","ns1.kangdns.com.","ns1.365cyd.net.","ns1.jiasule.net."]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","240e:95c:806:40::419"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","240e:95c:806:40::419"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","2409:8c50:a00:2163:8000::5"]
 [aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:965:802:1040::400","2409:8c50:a00:2163:8000::5"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","240e:940:20c:200:1:8000:0:1"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","240e:940:20c:200:1:8000:0:1"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","2409:8c50:a00:2163:8000::5"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:95c:806:40::416"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:965:802:1040::400","240e:cf:8800:37:2:0:8000:10"]
 [aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","2409:8c04:1101:3050::407"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","240e:95c:806:40::419"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","240e:95c:806:40::416"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","240e:95c:806:40::416"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:965:802:1040::400","2409:8c50:a00:2163:8000::5"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:965:802:1040::400","2409:8c50:a00:2163:8000::5"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","240e:965:802:1040::400"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","2409:8c04:1101:3050::407"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","2409:8c50:a00:2163:8000::5"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","2409:8c04:1101:3050::408"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::416","2409:8c04:1101:3050::408"]
+[dns-internal-ip-disclosure] [dns] [info] www.szafi.com.cn ["127.0.0.1"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","2409:8c04:1101:3050::408"]
+[dns-internal-ip-disclosure] [dns] [info] en.szafi.com.cn ["127.0.0.1"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c50:a00:2163:8000::5","240e:cf:8800:37:2:0:8000:10"]
 [ssl-issuer] [ssl] [info] mail.sutpc.com:443 ["DigiCert, Inc."]
 [mismatched-ssl-certificate] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com"]
-[ssl-dns-names] [ssl] [info] mail.sutpc.com:443 ["*.exmail.qq.com","exmail.qmail.com","m.exmail.qmail.com","mxbiz1.qq.com","mxbiz2.qq.com","cloudmx.qq.com","exmail.work.weixin.qq.com","topic.weixin.qq.com","boss.exmailgz.com","exmail.weixin.qq.com","support.exmailgz.com","exmail.qq.com"]
-[wildcard-tls] [ssl] [info] mail.sutpc.com:443 ["SAN: [*.exmail.qq.com topic.weixin.qq.com boss.exmailgz.com exmail.qmail.com m.exmail.qmail.com mxbiz1.qq.com mxbiz2.qq.com cloudmx.qq.com exmail.weixin.qq.com exmail.work.weixin.qq.com support.exmailgz.com exmail.qq.com]","CN: *.exmail.qq.com"]
+[ssl-dns-names] [ssl] [info] mail.sutpc.com:443 ["boss.exmailgz.com","exmail.qmail.com","m.exmail.qmail.com","mxbiz1.qq.com","mxbiz2.qq.com","cloudmx.qq.com","exmail.work.weixin.qq.com","support.exmailgz.com","*.exmail.qq.com","topic.weixin.qq.com","exmail.weixin.qq.com","exmail.qq.com"]
+[wildcard-tls] [ssl] [info] mail.sutpc.com:443 ["CN: *.exmail.qq.com","SAN: [*.exmail.qq.com topic.weixin.qq.com boss.exmailgz.com exmail.qmail.com m.exmail.qmail.com mxbiz1.qq.com mxbiz2.qq.com cloudmx.qq.com exmail.weixin.qq.com exmail.work.weixin.qq.com support.exmailgz.com exmail.qq.com]"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:cf:8800:37:2:0:8000:10","240e:95c:806:40::419"]
 [ssl-issuer] [ssl] [info] bjfy.sutpc.com:7443 ["sangfor"]
 [mismatched-ssl-certificate] [ssl] [info] bjfy.sutpc.com:7443 ["CN: SANGFOR"]
 [self-signed-ssl] [ssl] [low] bjfy.sutpc.com:7443
 [ssl-dns-names] [ssl] [info] bjfy.sutpc.com:7443 ["10.3.1.17","10.251.251.251"]
-[ssl-issuer] [ssl] [info] ftl.sutpc.com:7443 ["sangfor"]
-[mismatched-ssl-certificate] [ssl] [info] ftl.sutpc.com:7443 ["CN: SANGFOR"]
-[self-signed-ssl] [ssl] [low] ftl.sutpc.com:7443
-[ssl-dns-names] [ssl] [info] ftl.sutpc.com:7443 ["10.3.1.17","10.251.251.251"]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.jiasule.net.","ns1.365cyd.net.","ns2.kangdns.com.","ns2.365cyd.net.","ns1.kangdns.com.","ns2.jiasule.net."]
-[ssl-issuer] [ssl] [info] www.szsiq.com:7004 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-issuer] [ssl] [info] cdn.szsiq.com:9898 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:50001 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:83 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] cdn.szsiq.com:9898 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] cdn.szsiq.com:9898
-[ssl-dns-names] [ssl] [info] www.szsiq.com:50001 ["*.szsiq.com","szsiq.com"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:83 ["*.szsiq.com","szsiq.com"]
-[wildcard-tls] [ssl] [info] cdn.szsiq.com:9898 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:83
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:50001
-[wildcard-tls] [ssl] [info] www.szsiq.com:83 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[wildcard-tls] [ssl] [info] www.szsiq.com:50001 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:7004 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:7004
-[wildcard-tls] [ssl] [info] www.szsiq.com:7004 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:10000 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:8000 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:10000 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:10000
-[wildcard-tls] [ssl] [info] www.szsiq.com:10000 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:8000 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8000
-[wildcard-tls] [ssl] [info] www.szsiq.com:8000 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:443 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:443
-[wildcard-tls] [ssl] [info] www.szsiq.com:443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:8081 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:8081 ["szsiq.com","*.szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8081
-[wildcard-tls] [ssl] [info] www.szsiq.com:8081 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:88 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:88 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:88
-[wildcard-tls] [ssl] [info] www.szsiq.com:88 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:7921 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:7921 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:7921
-[wildcard-tls] [ssl] [info] www.szsiq.com:7921 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:8085 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:8085 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8085
-[wildcard-tls] [ssl] [info] www.szsiq.com:8085 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:8193 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:10010 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:10010 ["szsiq.com","*.szsiq.com"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:8193 ["*.szsiq.com","szsiq.com"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:8084 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8193
-[wildcard-tls] [ssl] [info] www.szsiq.com:8193 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:10010
-[ssl-dns-names] [ssl] [info] www.szsiq.com:8084 ["*.szsiq.com","szsiq.com"]
-[wildcard-tls] [ssl] [info] www.szsiq.com:10010 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8084
-[wildcard-tls] [ssl] [info] www.szsiq.com:8084 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:8899 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:8899 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8899
-[wildcard-tls] [ssl] [info] www.szsiq.com:8899 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.jiasule.net.","ns2.jiasule.net.","ns1.365cyd.net.","ns2.365cyd.net.","ns1.kangdns.com.","ns2.kangdns.com."]
-[ssl-issuer] [ssl] [info] www.szsiq.com:89 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:89 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:89
-[wildcard-tls] [ssl] [info] www.szsiq.com:89 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:8007 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
 [ssl-issuer] [ssl] [info] www.szsiq.com:9000 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:4443 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:8007 ["*.szsiq.com","szsiq.com"]
 [ssl-dns-names] [ssl] [info] www.szsiq.com:9000 ["*.szsiq.com","szsiq.com"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:4443 ["szsiq.com","*.szsiq.com"]
 [untrusted-root-certificate] [ssl] [low] www.szsiq.com:9000
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8007
 [wildcard-tls] [ssl] [info] www.szsiq.com:9000 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9001 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9001 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9001
-[wildcard-tls] [ssl] [info] www.szsiq.com:9001 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9200 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9200 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9200
-[wildcard-tls] [ssl] [info] www.szsiq.com:9200 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9103 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9103 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9103
-[wildcard-tls] [ssl] [info] www.szsiq.com:9103 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9101 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9101 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9101
-[wildcard-tls] [ssl] [info] www.szsiq.com:9101 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9080 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9080 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9080
-[wildcard-tls] [ssl] [info] www.szsiq.com:9080 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9081 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9081 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9081
-[wildcard-tls] [ssl] [info] www.szsiq.com:9081 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9100 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9100 ["*.szsiq.com","szsiq.com"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9099 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9100
-[wildcard-tls] [ssl] [info] www.szsiq.com:9100 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9099 ["szsiq.com","*.szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9099
-[wildcard-tls] [ssl] [info] www.szsiq.com:9099 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9009 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9009 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9009
-[wildcard-tls] [ssl] [info] www.szsiq.com:9009 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9207 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9207 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9207
-[wildcard-tls] [ssl] [info] www.szsiq.com:9207 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9900 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9900 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9900
-[wildcard-tls] [ssl] [info] www.szsiq.com:9900 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:99 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:99 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:99
-[wildcard-tls] [ssl] [info] www.szsiq.com:99 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9998 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9998 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9998
-[wildcard-tls] [ssl] [info] www.szsiq.com:9998 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:8008 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:8008 ["szsiq.com","*.szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8008
+[wildcard-tls] [ssl] [info] www.szsiq.com:8008 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:4443
+[wildcard-tls] [ssl] [info] www.szsiq.com:4443 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[wildcard-tls] [ssl] [info] www.szsiq.com:8007 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
 [ssl-issuer] [ssl] [info] www.szsiq.com:7999 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:5001 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
 [ssl-dns-names] [ssl] [info] www.szsiq.com:7999 ["*.szsiq.com","szsiq.com"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:5001 ["*.szsiq.com","szsiq.com"]
 [untrusted-root-certificate] [ssl] [low] www.szsiq.com:7999
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:5001
 [wildcard-tls] [ssl] [info] www.szsiq.com:7999 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:9999 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:9999 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9999
-[wildcard-tls] [ssl] [info] www.szsiq.com:9999 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns2.jiasule.net.","ns2.365cyd.net.","ns1.jiasule.net.","ns1.kangdns.com.","ns2.kangdns.com."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.365cyd.net.","ns2.kangdns.com.","ns1.jiasule.net.","ns2.jiasule.net.","ns1.kangdns.com.","ns2.365cyd.net."]
+[wildcard-tls] [ssl] [info] www.szsiq.com:5001 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:5000 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:5000 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:5000
+[wildcard-tls] [ssl] [info] www.szsiq.com:5000 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
 [ssl-issuer] [ssl] [info] www.szsiq.com:8500 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:85 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
 [ssl-dns-names] [ssl] [info] www.szsiq.com:8500 ["*.szsiq.com","szsiq.com"]
 [untrusted-root-certificate] [ssl] [low] www.szsiq.com:8500
 [wildcard-tls] [ssl] [info] www.szsiq.com:8500 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:8654 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:8654 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8654
-[wildcard-tls] [ssl] [info] www.szsiq.com:8654 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:85 ["*.szsiq.com","szsiq.com"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:801 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:85
+[wildcard-tls] [ssl] [info] www.szsiq.com:85 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:6000 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:801 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:801
+[wildcard-tls] [ssl] [info] www.szsiq.com:801 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:6000 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:6000
+[wildcard-tls] [ssl] [info] www.szsiq.com:6000 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:6788 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:6788 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:6788
+[wildcard-tls] [ssl] [info] www.szsiq.com:6788 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:8086 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:8086 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8086
+[wildcard-tls] [ssl] [info] www.szsiq.com:8086 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:7007 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:7007 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:7007
+[wildcard-tls] [ssl] [info] www.szsiq.com:7007 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
 [ssl-issuer] [ssl] [info] www.szsiq.com:8400 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
 [ssl-dns-names] [ssl] [info] www.szsiq.com:8400 ["*.szsiq.com","szsiq.com"]
 [untrusted-root-certificate] [ssl] [low] www.szsiq.com:8400
 [wildcard-tls] [ssl] [info] www.szsiq.com:8400 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[ssl-issuer] [ssl] [info] www.szsiq.com:8011 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
-[ssl-dns-names] [ssl] [info] www.szsiq.com:8011 ["*.szsiq.com","szsiq.com"]
-[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8011
-[wildcard-tls] [ssl] [info] www.szsiq.com:8011 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.cyudun.net.","ns2.cyudun.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns1.kangdns.com.","ns1.jiasule.net.","ns2.365cyd.net.","ns2.kangdns.com.","ns2.jiasule.net.","ns1.365cyd.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.kangdns.com.","ns2.365cyd.net.","ns2.jiasule.net.","ns1.kangdns.com.","ns1.jiasule.net.","ns1.365cyd.net."]
-[nameserver-fingerprint] [dns] [info] www.szsiq.com ["ns2.cyudun.net.","ns1.cyudun.net."]
+[ssl-issuer] [ssl] [info] www.szsiq.com:82 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:82 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:82
+[wildcard-tls] [ssl] [info] www.szsiq.com:82 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:8087 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:8087 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8087
+[wildcard-tls] [ssl] [info] www.szsiq.com:8087 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:8899 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:3030 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:8899 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8899
+[wildcard-tls] [ssl] [info] www.szsiq.com:8899 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:3030 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:3030
+[wildcard-tls] [ssl] [info] www.szsiq.com:3030 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:5200 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:5200 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:5200
+[ssl-issuer] [ssl] [info] www.szsiq.com:9001 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[wildcard-tls] [ssl] [info] www.szsiq.com:5200 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:8083 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9001 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9001
+[wildcard-tls] [ssl] [info] www.szsiq.com:9001 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:8083 ["szsiq.com","*.szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:8083
+[wildcard-tls] [ssl] [info] www.szsiq.com:8083 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:9010 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9010 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9010
+[wildcard-tls] [ssl] [info] www.szsiq.com:9010 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:9999 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9999 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9999
+[wildcard-tls] [ssl] [info] www.szsiq.com:9999 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:99 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:99 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:99
+[wildcard-tls] [ssl] [info] www.szsiq.com:99 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:9100 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9100 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9100
+[wildcard-tls] [ssl] [info] www.szsiq.com:9100 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:9090 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9090 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9090
+[wildcard-tls] [ssl] [info] www.szsiq.com:9090 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:9998 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9998 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9998
+[wildcard-tls] [ssl] [info] www.szsiq.com:9998 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:9099 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9099 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9099
+[wildcard-tls] [ssl] [info] www.szsiq.com:9099 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:9002 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9002 ["*.szsiq.com","szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9002
+[wildcard-tls] [ssl] [info] www.szsiq.com:9002 ["CN: *.szsiq.com","SAN: [*.szsiq.com szsiq.com]"]
+[ssl-issuer] [ssl] [info] www.szsiq.com:9081 ["Shenzhen Digital Certificate Authority Center Co., Ltd"]
+[ssl-dns-names] [ssl] [info] www.szsiq.com:9081 ["szsiq.com","*.szsiq.com"]
+[untrusted-root-certificate] [ssl] [low] www.szsiq.com:9081
+[wildcard-tls] [ssl] [info] www.szsiq.com:9081 ["SAN: [*.szsiq.com szsiq.com]","CN: *.szsiq.com"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["240e:95c:806:40::419","240e:cf:8800:37:2:0:8000:10"]
+[aaaa-fingerprint] [dns] [info] www.szsiq.com ["2409:8c04:1101:3050::407","240e:cf:8800:37:2:0:8000:10"]
